@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" /> 
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel='stylesheet' href='assets/css/font-awesome.min.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel='stylesheet' href='assets/lib/owl-carousel/css/owl.carousel.min.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel='stylesheet' href='assets/lib/bootstrap-3.3.7/css/bootstrap.min.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel='stylesheet' href='assets/css/reset-style.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel='stylesheet' href='assets/css/animate.min.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+        <!-- BEGIN REVOLUTION SLIDER -->
+        <link rel="stylesheet" href="assets/lib/revolution/css/settings.css">
+        <link rel="stylesheet" href="assets/lib/revolution/css/layers.css">
+        <link rel="stylesheet" href="assets/lib/revolution/css/navigation.css">
+        <!-- END REVOLUTION SLIDER -->
+        <link rel='stylesheet' href='assets/css/style.css?ver=4.9.8' type='text/css' media='all' />
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    </head>
+    <body class="page2">
+        <div id="airtest-wrapper" class="commercial-cleaning">
+            <header class="header-v1">
+                <div class="top-header">
+                    <div class="container container-center ">
+                        <div class="box clearfix">
+                            <ul class="social">
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <div class="phone-email">
+                                <ul>
+                                    <li class="leng"><img src="assets/images/united-states-of-america.png" /><select >
+                                        <option>English</option>
+                                        <option>English</option>
+                                        <option>English</option>
+                                    </select></li>
+                                    <li><a href="tel:+358466204485"><i class="fa fa-phone" aria-hidden="true"></i>+358466204485</a></li>
+                                    <li><a href="mailto:cs@2beesfs.com"><i class="fa fa-envelope" aria-hidden="true"></i>cs@2beesfs.com</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="header position-relative clearfix">
+                    <div class="container container-center ">
+                        <div class="main-menu clearfix">
+                            <div class="logo">
+                                <a href="#"><img src="assets/images/logo.png" alt=""/></a>
+                            </div>
+                            <div class="box-menu-button">
+                                <ul class="primary-menu">
+                                    <li class="active"><a href="index2.html">home</a></li>
+                                    <li><a href="commercial-cleaning.html">Commercial</a></li>
+                                    <li><a href="domestic-cleaning.html">Domestic</a></li>
+                                    <li><a href="recycling.html">Recycling</a></li>
+                                    <li><a href="shop.html">Shop</a></li>
+                                    <li><a href="#">Academy</a></li>
+                                </ul>
+                                <div class="box-button-cart">
+                                    <div class="button-header">
+                                        <a href="jobs-available.html">Available Jobs</a>
+                                    </div>
+                                    <div class="precise-cart">
+                                        <a href="#" class="cart">
+                                            <img src="assets/images/shopping-cart.png" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="menu-bars-mobi open">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu-mobi">
+                    <nav class="nav-holder">
+                        <ul>
+                            <li class="active"><a href="index2.html">home</a></li>
+                            <li><a href="commercial-cleaning.html">Commercial</a></li>
+                            <li><a href="domestic-cleaning.html">Domestic</a></li>
+                            <li><a href="recycling.html">Recycling</a></li>
+                            <li><a href="shop.html">Shop</a></li>
+                            <li><a href="jobs-available.html">Available Jobs</a></li>
+                            <li><a href="tel:+358466204485"><i class="fa fa-phone" aria-hidden="true"></i>+358466204485</a></li>
+                            <li><a href="mailto:cs@2beesfs.com"><i class="fa fa-envelope" aria-hidden="true"></i>cs@2beesfs.com</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+            <div class="main-box-product">
+                <div class="banner-slider">
+                    <div class="images">
+                        <img src="assets/images/banner2.png">
+                        <div class="text text-center">
+                            <h2>Book your Recycling &Others</h2>
+                            <p>Recycle the present, save the future.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div  class="banner-slider-content">
+
+                <div class="banner-form page2">
+                    <div class="container">
+                        <div class="box-form">
+                            <form action="/action_page.php">
+                                <h2>Request Booking</h2>
+                                <div class="text-box">
+                                    <div class="form-group">
+                                        <input type="text" class="form-control"  placeholder="Type your Area" name="email">
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="select" >
+                                            <select class="form-control " class="sel1">
+                                                <option>Select Service Type</option>
+                                                <option>Select Service Type1</option>
+                                                <option>Select Service Type2</option>
+                                                <option>Select Service Type3</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control"  placeholder="No. of Person Needed" name="email">
+                                    </div>
+                                    <div class="form-group">
+                                        <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal1">
+                                            BOOk NOW
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="box-form z-index">
+                            <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="container">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+
+                                            <div class="modal-body">
+                                                <form role="form" action="" method="post" class="registration-form">
+                                                    <div class="form-bottom">
+                                                        <div class="modal-dialog">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                                    <div class="popup-content-banner">
+                                                                        <img src="assets/images/banner4.png">
+                                                                        <div class="text">
+                                                                            <h2>Enter Booking Details</h2>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <div class="popup-form">
+                                                                        <ul>
+
+                                                                            <div class="left">
+                                                                                <li>
+                                                                                    <div class="form-group">
+                                                                                        <div class="select" >
+                                                                                            <select class="form-control " class="sel1">
+                                                                                                <option>Apartment Size</option>
+                                                                                                <option>Apartment Size1</option>
+
+                                                                                            </select>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <div class="form-group">
+                                                                                        <div class="select" >
+                                                                                            <select class="form-control " class="sel1">
+                                                                                                <option>Select Duration</option>
+                                                                                                <option>Select Duration1</option>
+
+                                                                                            </select>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <div class="form-group">
+                                                                                        <div class="select" >
+                                                                                            <select class="form-control " class="sel1">
+                                                                                                <option>Number of Days</option>
+                                                                                                <option>Number of Days1</option>
+
+                                                                                            </select>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </li>
+                                                                                <div class="bototm">
+                                                                                    <li>
+                                                                                        <div class="form-group">
+                                                                                            <input type="text" name="date" class="form-control"  placeholder="Starting Date" name="email">
+                                                                                        </div>
+                                                                                    </li>
+                                                                                    <li>
+                                                                                        <div class="form-group">
+                                                                                            <input type="text" name="date" class="form-control"  placeholder="Ending Date" name="email">
+                                                                                        </div>
+                                                                                    </li>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="right">
+                                                                                <li>
+                                                                                    <div class="form-group">
+                                                                                        <input type="text" class="form-control" id="Name" placeholder="Full Name" name="Name">
+                                                                                    </div>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <div class="form-group">
+                                                                                        <input type="email" class="form-control"  placeholder="Email Address" name="email">
+                                                                                    </div>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <div class="form-group">
+                                                                                        <input type="text" class="form-control"  placeholder="Address" name="email">
+                                                                                    </div>
+                                                                                </li>
+                                                                                <li>
+                                                                                    <div class="form-group">
+                                                                                        <input type="Number" class="form-control" id="Number" placeholder="Phone Number" name="Number">
+                                                                                    </div>
+                                                                                </li>
+                                                                            </div>
+                                                                        </ul>
+                                                                        <div class="click">
+                                                                            <button type="button" class="btn btn-next">Continue</button>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <form role="form" action="" method="post" class="registration-form">
+                                                                    </form>
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-default btn-prev">Prev</button>
+                                                                    <button type="button" class="btn btn-default btn-next">Next</button>
+                                                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </form>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default btn-prev">Prev</button>
+                                                <button type="button" class="btn btn-default btn-next">Next</button>
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="button" class="btn btn-primary btn-lg s" data-toggle="modal" data-target="#myModal2">
+                                u can hide me
+                            </button>
+                            <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="container">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+
+                                            <div class="modal-body">
+                                                <form role="form" action="" method="post" class="registration-form">
+                                                    <div class="form-bottom">
+                                                        <div class="modal-dialog">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                                    <div class="popup-content-banner">
+                                                                        <img src="assets/images/banner4.png">
+                                                                        <div class="text">
+                                                                            <h2>Booking Details</h2>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <div class="popup-table">
+                                                                        <ul>
+                                                                            <li>
+                                                                                <div class="top-line">
+                                                                                    <ul>
+                                                                                        <li>
+                                                                                            <div class="box">
+                                                                                                <div class="left">
+                                                                                                    <h3>Number of Cleaners</h3>
+                                                                                                </div>
+                                                                                                <div class="right">
+                                                                                                    <p>02</p>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </li>
+                                                                                        <li>
+                                                                                            <div class="box">
+                                                                                                <div class="left">
+                                                                                                    <h3>Duration</h3>
+                                                                                                </div>
+                                                                                                <div class="right">
+                                                                                                    <p>02 hours</p>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </li>
+                                                                                        <li>
+                                                                                            <div class="box">
+                                                                                                <div class="left">
+                                                                                                    <h3>Starting from</h3>
+                                                                                                </div>
+                                                                                                <div class="right">
+                                                                                                    <p>08/06/2020</p>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </li>
+                                                                                        <li>
+                                                                                            <div class="box">
+                                                                                                <div class="left">
+                                                                                                    <h3>Ending at</h3>
+                                                                                                </div>
+                                                                                                <div class="right">
+                                                                                                    <p>08/06/2020</p>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </li>
+                                                                                        <li>
+                                                                                            <div class="box">
+                                                                                                <div class="left">
+                                                                                                    <h3>Number of Days</h3>
+                                                                                                </div>
+                                                                                                <div class="right">
+                                                                                                    <p>10</p>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </li>
+                                                                                    </ul>
+                                                                                </div>
+                                                                                <div class="text-title">
+                                                                                    <h2>To Pay: $1299.00</h2>
+                                                                                </div>
+                                                                                <div class="Person-Details">
+                                                                                    <h2>Person Details</h2>
+                                                                                    <div class="top">
+                                                                                        <div class="box">
+                                                                                            <div class="left">
+                                                                                                <h3>Name</h3>
+                                                                                            </div>
+                                                                                            <div class="right">
+                                                                                                <p>John Doe</p>
+                                                                                            </div>
+                                                                                        </div>
+
+                                                                                        <div class="box">
+                                                                                            <div class="left">
+                                                                                                <h3>Address</h3>
+                                                                                            </div>
+                                                                                            <div class="right">
+                                                                                                <p>p12 streee12 abc</p>
+                                                                                            </div>
+                                                                                        </div>
+
+                                                                                        <div class="box">
+                                                                                            <div class="left">
+                                                                                                <h3>Email</h3>
+                                                                                            </div>
+                                                                                            <div class="right">
+                                                                                                <p>abc @ abc.com</p>
+                                                                                            </div>
+                                                                                        </div>
+
+                                                                                        <div class="box">
+                                                                                            <div class="left">
+                                                                                                <h3>Phone Number</h3>
+                                                                                            </div>
+                                                                                            <div class="right">
+                                                                                                <p>p12 streee12 abc</p>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+
+                                                                        </ul>
+                                                                        <div class="click">
+                                                                            <div class="modal-footer">
+                                                                                <button type="button" class="btn btn-default btn-prev s">Pay Now</button>
+                                                                                <button type="button" class="btn btn-default cancel" data-dismiss="modal">Cancel</button>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <form role="form" action="" method="post" class="registration-form">
+                                                                    </form>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </form>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="page2-section-content-main">
+                <div class="container">
+                    <div class="row">
+                        <div class="box-main images">
+                                    <div class=" col-md-6 col-md-pull-6 img">
+                                        <div class="images right">
+                                            <img class="top" src="assets/images/book1.png">
+                                            <img class="bottom" src="assets/images/line image.png">
+                                        </div>
+                                    </div>
+
+                                    <div class="left col-md-6 col-md-push-6">
+                                        <h2> <a href="#">Eco Cleaning</a></h2>
+                                        <span>Go clean and Go green with our eco cleaning service.</span>
+                                        <p>We offer fully customized and budget-friendly eco-cleaning services using the state of the art Pro-Aqua machines. Our cleaning services are best suited for homes, offices, restaurants and meeting places. We are committed to provide and ensure the utmost cleanliness and hygiene to guarantee customer satisfaction.</p>
+                                    </div>
+                        </div>
+                        <div class="box-main">
+                                    <div class=" col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                        <div class="images right center">
+                                            <img class="top" src="assets/images/book2.png">
+                                            <img class="bottom" src="assets/images/line image.png">
+                                        </div>
+                                    </div>
+
+                                    <div class="left col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                        <div id="padding-one">
+                                            <h2> <a href="#">Moving & Delivery </a></h2>
+                                            <span>Let us help you move on to better things.</span>
+                                            <p>Moving to a new place is an experience. It gives you a new beginning and a fresh start. But it involves a lot of work. You pack all your belonging in boxes and haul them to a new place. </p>
+
+                                            <p>This process can, at times, be very stressful. Let us take away your stress by helping you with your moving and delivery needs. We offer reliable delivery services across specific locations in the country. And our agents are equipped and trained to carter to your moving and delivery needs.</p>
+                                            <p>You take care of your new beginning and let us take care of the moving and delivery. </p>
+                                        </div>
+                                    </div>
+                        </div>
+                        <div class="box-main bottom images">
+                                    <div class=" col-md-6 col-md-pull-6">
+                                        <div class="images right">
+                                            <img class="top" src="assets/images/book3.png">
+                                            <img class="bottom" src="assets/images/line image.png">
+                                        </div>
+                                    </div>
+
+                                    <div class="left col-md-6 col-md-push-6">
+                                        <h2> <a href="#">Restaurant Cleaning</a></h2>
+                                        <span>You didn’t open a restaurant to clean the floors.</span>
+                                        <p>The team at 2Bees FS follows the Covid-19 Health and Safety and COSHH guidelines to provide professional cleaning services for pubs, bars, and independent and chain restaurants. </p>
+
+                                        <p>We understand that cleanliness is of the utmost importance in the food industry. Having a place with good hygiene and sanitation can make or break the entire business. Keeping this in mind, our experienced staff maintains a strict standard of cleanliness with attention to detail. We clean the entire restaurant including the entrance, serving area, and kitchens while keeping customer disturbance to a minimum.</p>
+                                        <p>You take care of the customers and let us take care of you.</p>
+                                    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="our-projects-content">
+                <div class="container max">
+                    <div class="top-box">
+                        <h2>Our Projects</h2>
+                        <p>Perspiciatis unde omnis iste natus error sit voluptatem accusantiumdol oremque<br>  laudantium, totam remeaque ipsa. </p>
+                    </div>
+                </div>
+                    <ul>
+                        <li>
+                            <div class="images-slider owl-carousel owl-theme">
+                                <div class="images">
+                                    <a href="#">
+                                        <div class="before">
+                                            <img src="assets/images/12.png">
+                                        </div>
+                                        <div class="text">
+                                            <h2>Home Cleaning</h2>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class="images">
+                                    <a href="#">
+                                    <div class="before">
+                                        <img src="assets/images/13.png">
+                                    </div>
+                                    <div class="text">
+                                        <h2>Home Cleaning</h2>
+                                    </div>
+                                    </a>
+                                </div>
+                                <div class="images">
+                                    <a href="#">
+                                    <div class="before">
+                                        <img src="assets/images/14.png">
+                                    </div>
+                                    <div class="text">
+                                        <h2>Home Cleaning</h2>
+                                    </div>
+                                    </a>
+                                </div>
+                                <div class="images">
+                                    <a href="#">
+                                    <div class="before">
+                                        <img src="assets/images/12.png">
+                                    </div>
+                                    <div class="text">
+                                        <h2>Home Cleaning</h2>
+                                    </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+            </div>
+            <footer>
+                <div class="footer">
+                    <div class="footer-top">
+                        <div class="container container-center">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-12 col-xs-12">
+                                    <a href="#" class="logo-footer"><img src="assets/images/logo.png" alt=""/></a>
+                                     <ul class="social">
+                                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                     </ul>
+                                </div>
+                                <div class="col-md-3 col-sm-12 col-xs-12">
+                                    <div class="list-menu-footer">
+                                        <h4>Explore</h4>
+                                        <div class="menu-menu-footer-1">
+                                            <ul>
+                                                <li><a href="#">About us</a></li>
+                                                <li><a href="#">Who we are</a></li>
+                                                <li><a href="#">Our Strategy</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-12 col-xs-12">
+                                    <div class="list-menu-footer">
+                                        <h4>Explore</h4>
+                                        <div class="menu-menu-footer-2">
+                                            <ul>
+                                                <li><a href="#">Sponsorship & Training</a></li>
+                                                <li><a href="#">Privacy Policy</a></li>
+                                                <li><a href="#">Terms of Use and Guarantee</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-12 col-xs-12">
+                                    <div class="footer_custom_html">
+                                        <h4>Contact us</h4>
+                                            <div class="phone-email-footer">
+                                                <ul>
+                                                    <li><a href="tel:+358466204485"><i class="fa fa-phone" aria-hidden="true"></i>+358466204485</a></li>
+                                                    <li><a href="mailto:cs@2beesfs.com"><i class="fa fa-envelope" aria-hidden="true"></i>cs@2beesfs.com</a></li>
+                                                    <li><a href="mailto:cs@2beesfs.com"><i class="fa fa-map-marker" aria-hidden="true"></i>Hameenlina, Finland</a></li>
+                                                </ul>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="copyright">
+                        <div class="container container-center">
+                            <p>Copyright © 2020 2Beesfs. All Rights Reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <div id="airtest_backtop" class="airtest-scroll-top"><span class="fa fa-angle-up"></span></div>
+        </div>
+        <script type='text/javascript' src='assets/lib/jquery/jquery.js?ver=1.12.4'></script>
+        <!-- BEGIN REVOLUTION SLIDER -->
+        <script src="assets/lib/revolution/js/jquery.themepunch.tools.min.js"></script>
+        <script src="assets/lib/revolution/js/jquery.themepunch.revolution.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.video.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+        <!-- END REVOLUTION SLIDER -->
+        <script type='text/javascript' src='assets/js/ultimate.min.js?ver=4.9.8'></script>
+        <script type='text/javascript' src='assets/lib/owl-carousel/owl.carousel.min.js?ver=4.9.8'></script>
+        <script type='text/javascript' src='assets/lib/bootstrap-3.3.7/js/bootstrap.min.js?ver=4.9.8'></script>
+        <script type='text/javascript' src='assets/js/script.js'></script>
+    </body>
+</html>

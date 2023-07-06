@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" /> 
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel='stylesheet' href='assets/css/font-awesome.min.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel='stylesheet' href='assets/lib/owl-carousel/css/owl.carousel.min.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel='stylesheet' href='assets/lib/bootstrap-3.3.7/css/bootstrap.min.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel='stylesheet' href='assets/css/reset-style.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel='stylesheet' href='assets/css/animate.min.css?ver=4.9.8' type='text/css' media='all' />
+        <link rel="stylesheet" href="assets/css/reset-style.css">
+        <!-- BEGIN REVOLUTION SLIDER -->
+        <link rel="stylesheet" href="assets/lib/revolution/css/settings.css">
+        <link rel="stylesheet" href="assets/lib/revolution/css/layers.css">
+        <link rel="stylesheet" href="assets/lib/revolution/css/navigation.css">
+        <!-- END REVOLUTION SLIDER -->
+        <link rel='stylesheet' href='assets/css/style.css?ver=4.9.8' type='text/css' media='all' />
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    </head>
+    <body> 
+        <div id="airtest-wrapper">
+            <header class="header-v1">
+                <div class="top-header">
+                    <div class="container container-center ">
+                        <div class="box clearfix">
+                            <ul class="social">
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            </ul>
+                            <div class="phone-email">
+                                <ul>
+                                    <li class="leng"><img src="assets/images/united-states-of-america.png" /><select >
+                                        <option>English</option>
+                                        <option>English</option>
+                                        <option>English</option>
+                                    </select></li>
+                                    <li><a href="tel:+358466204485"><i class="fa fa-phone" aria-hidden="true"></i>+358466204485</a></li>
+                                    <li><a href="mailto:cs@2beesfs.com"><i class="fa fa-envelope" aria-hidden="true"></i>cs@2beesfs.com</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="header position-relative clearfix">
+                    <div class="container container-center ">
+                        <div class="main-menu clearfix">
+                            <div class="logo">
+                                <a href="#"><img src="assets/images/logo.png" alt=""/></a>
+                            </div>
+                            <div class="box-menu-button">
+                                <ul class="primary-menu">
+                                    <li class="active"><a href="index2.html">home</a></li>
+                                    <li><a href="commercial-cleaning.html">Commercial</a></li>
+                                    <li><a href="domestic-cleaning.html">Domestic</a></li>
+                                    <li><a href="recycling.html">Recycling</a></li>
+                                    <li><a href="shop.html">Shop</a></li>
+                                    <li><a href="#">Academy</a></li>
+                                </ul>
+                                <div class="box-button-cart">
+                                    <div class="button-header">
+                                        <a href="jobs-available.html">Available Jobs</a>
+                                    </div>
+                                    <div class="precise-cart">
+                                        <a href="#" class="cart">
+                                            <img src="assets/images/shopping-cart.png" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="menu-bars-mobi open">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="menu-mobi">
+                    <nav class="nav-holder">
+                        <ul>
+                            <li class="active"><a href="index2.html">home</a></li>
+                            <li><a href="commercial-cleaning.html">Commercial</a></li>
+                            <li><a href="domestic-cleaning.html">Domestic</a></li>
+                            <li><a href="recycling.html">Recycling</a></li>
+                            <li><a href="shop.html">Shop</a></li>
+                            <li><a href="jobs-available.html">Available Jobs</a></li>
+                            <li><a href="tel:+358466204485"><i class="fa fa-phone" aria-hidden="true"></i>+358466204485</a></li>
+                            <li><a href="mailto:cs@2beesfs.com"><i class="fa fa-envelope" aria-hidden="true"></i>cs@2beesfs.com</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+            <div class="main-box-product">
+                <div class="banner-slider">
+                    <div class="images">
+                        <img src="assets/images/product/1.png">
+                        <div class="text text-center">
+                            <h2>Get Any Product</h2>
+                            <p>Suitable products for all kind of cleaning services, maintenance services,move in & move out, house services, housekeeping as well.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="product">
+                <div class="demo-product">
+                    <div class="container">
+                        <div class="col-lg-9 col-md-9 col-sm-9 popular-product">
+                            <div class="search">
+                                <form class="example" action="action_page.php">
+                                    <input type="text" placeholder="Search Products" name="search ">
+                                    <button type="submit">search</button>
+                                </form>
+                            </div>
+                            <div class="pdoduct-one">
+                                <h2 class="title-product">Popular Product</h2>
+                                <div class="row">
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/2.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/product2.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="shop-detail.html">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/product3.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/product4.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/product5.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/product6.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/product7.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/product8.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-6 col-xs-6">
+                                        <div class="product-grid4">
+                                            <div class="product-image4">
+                                                <a href="#">
+                                                    <img class="pic-1" src="assets/images/product/2.png">
+                                                </a>
+                                                <ul class="social">
+                                                    <li class="one-tors"><a href="#" data-tip="Quick View"><i class="fa fa-eye"></i></a></li>
+                                                    <li><a href="#" data-tip="Add to Wishlist"><i class="fa fa-shopping-bag"></i></a></li>
+                                                    <li class="one-star"><a href="#" data-tip="Add to Cart"><i class="fa fa-shopping-cart"></i></a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="product-content">
+                                                <p class="text-demo">$100.00</p>
+                                                <h2><a href="#">Product1</a></h2>
+                                                <a class="add-to-cart" href="">Add to Cart</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="load-more">
+                                <a href="#">Load More</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 new-product">
+                            <div class="product">
+                                <h2 class="title-product">Product</h2>
+                                <ul>
+                                    <li>
+                                        <div class="produc-img">
+                                            <img class="images" src="assets/images/product/2.png">
+                                        </div>
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                    <div class="line"></div>
+                                    <li>
+                                        <img class="images" src="assets/images/product/product3.png">
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                    <div class="line"></div>
+                                    <li>
+                                        <img class="images" src="assets/images/product/product4.png">
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                    <div class="line"></div>
+                                    <li>
+                                        <img class="images" src="assets/images/product/product5.png">
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                    <div class="line"></div>
+                                    <li>
+                                        <img class="images" src="assets/images/product/product6.png">
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                    <div class="line"></div>
+                                    <li>
+                                        <img class="images" src="assets/images/product/product7.png">
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                    <div class="line"></div>
+                                    <li>
+                                        <img class="images" src="assets/images/product/product8.png">
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                    <div class="line"></div>
+                                    <li>
+                                        <img class="images" src="assets/images/product/product3.png">
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                    <div class="line"></div>
+                                    <li>
+                                        <img class="images" src="assets/images/product/product5.png">
+                                        <div class="text-image">
+                                            <h2><a href="#">Product1</a></h2>
+                                            <p>$100.00</p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <footer>
+                <div class="footer">
+                    <div class="footer-top">
+                        <div class="container container-center">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-12 col-xs-12">
+                                    <a href="#" class="logo-footer"><img src="assets/images/logo.png" alt=""/></a>
+                                     <ul class="social">
+                                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                     </ul>
+                                </div>
+                                <div class="col-md-3 col-sm-12 col-xs-12">
+                                    <div class="list-menu-footer">
+                                        <h4>Explore</h4>
+                                        <div class="menu-menu-footer-1">
+                                            <ul>
+                                                <li><a href="#">About us</a></li>
+                                                <li><a href="#">Who we are</a></li>
+                                                <li><a href="#">Our Strategy</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-12 col-xs-12">
+                                    <div class="list-menu-footer">
+                                        <h4>Explore</h4>
+                                        <div class="menu-menu-footer-2">
+                                            <ul>
+                                                <li><a href="#">Sponsorship & Training</a></li>
+                                                <li><a href="#">Privacy Policy</a></li>
+                                                <li><a href="#">Terms of Use and Guarantee</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-12 col-xs-12">
+                                    <div class="footer_custom_html">
+                                        <h4>Contact us</h4>
+                                            <div class="phone-email-footer">
+                                                <ul>
+                                                    <li><a href="tel:+358466204485"><i class="fa fa-phone" aria-hidden="true"></i>+358466204485</a></li>
+                                                    <li><a href="mailto:cs@2beesfs.com"><i class="fa fa-envelope" aria-hidden="true"></i>cs@2beesfs.com</a></li>
+                                                    <li><a href="mailto:cs@2beesfs.com"><i class="fa fa-map-marker" aria-hidden="true"></i>Hameenlina, Finland</a></li>
+                                                </ul>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="copyright">
+                        <div class="container container-center">
+                            <p>Copyright © 2020 2Beesfs. All Rights Reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <div id="airtest_backtop" class="airtest-scroll-top"><span class="fa fa-angle-up"></span></div>
+        </div>
+        <script type='text/javascript' src='assets/lib/jquery/jquery.js?ver=1.12.4'></script>
+        <!-- BEGIN REVOLUTION SLIDER -->
+        <script src="assets/lib/revolution/js/jquery.themepunch.tools.min.js"></script>
+        <script src="assets/lib/revolution/js/jquery.themepunch.revolution.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <script src="assets/lib/revolution/js/extensions/revolution.extension.video.min.js"></script>
+        <!-- END REVOLUTION SLIDER -->
+        <script type='text/javascript' src='assets/js/ultimate.min.js?ver=4.9.8'></script>
+        <script type='text/javascript' src='assets/lib/owl-carousel/owl.carousel.min.js?ver=4.9.8'></script>
+        <script type='text/javascript' src='assets/lib/bootstrap-3.3.7/js/bootstrap.min.js?ver=4.9.8'></script>
+        <script type='text/javascript' src='assets/js/script.js'></script>
+    </body>
+</html>
